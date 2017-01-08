@@ -16,6 +16,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ==============================
 ## demo
 练习：
+```bash
 		<canvas id="cvs"></canvas>
 		<script src="Chart.min.js" type="text/javascript" charset="utf-8"></script>
 		<script type="text/javascript">
@@ -56,5 +57,5 @@ false：默认值，从指定数据开始，不一定为0
 					}
 				}
 			});	</script>
-			
+```
 			
